@@ -1,0 +1,2 @@
+msp430-gcc -mmcu=msp430g2553 -std=c99 -g -o Flappy.elf Flappy.c
+mspdebug rf2500 

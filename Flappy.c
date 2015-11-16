@@ -1,5 +1,4 @@
 #include <msp430.h>
-#include "vlo_rand.h"
 
 #define SCE  BIT5 // P2.5 LATCH
 #define SDIN BIT7 // P1.7 DATA
